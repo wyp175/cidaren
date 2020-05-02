@@ -1,6 +1,8 @@
 # cidaren
 针对于微信 词达人(vocabgo.com) 的FiddlerScript 辅助脚本,  
 通过Fiddler的CustomRules.js实现对词达人的快速过任务(词达人杀我)  
+同步gitee库 <https://gitee.com/wyp175/cidaren>  
+
 
 #### 使用说明
 
