@@ -3,6 +3,8 @@
 通过Fiddler的CustomRules.js实现对词达人的快速过任务(词达人杀我)  
 同步gitee库 <https://gitee.com/wyp175/cidaren>  
 
+***QQ群: 733477414***
+![QQ群号](http://p.ananas.chaoxing.com/star3/origin/07fec01c4e124b7985ca15cb6f25c5f0.png)  
 
 #### 使用说明
 
@@ -11,10 +13,10 @@
 3.  将CustomRules.js文件覆盖到 C:\Users\Administrator\Documents\Fiddler2\Scripts 目录下, 
     或打开Fiddler -> 找到右侧的FiddlerScript标签 -> 全选覆盖
 
-#### 2.0使用说明(更新时间: 2020-05-12)
-1.  下载2.0文件夹下的所有文件 或 蓝奏云盘<http://baidu.com/上传ing...>下载压缩文件  
+#### 2.0 使用说明(更新时间: 2020-05-12)
+1.  下载2.0文件夹下的所有文件 或 蓝奏云盘<https://wdsjxz.lanzous.com/icjarng>下载压缩文件  
 2.  上述文件覆盖到 目录 %UserProfile%\Documents\Fiddler2\Scripts\ 下  
-3.  ***重要***打开Fiddler(这一步会报错变量不存在, 忽略即可)->Options->Scripting->References->填入 CDR.dll 文件的完整路径后保存 例如: "C:\Users\Administrator\Documents\Fiddler2\Scripts\CDR.dll"  
+3.  ***重要***打开Fiddler(这一步会报错变量不存在, 忽略即可)->Tools->Options->Scripting->References->填入 CDR.dll 文件的完整路径后保存 例如: "C:\Users\Administrator\Documents\Fiddler2\Scripts\CDR.dll"  
 4.  重启Fiddler 这时候应该会有一个自动更新弹窗 点击确定即可  
 5.  找到右侧的Log标签页 确认前几条输出是否有 "[词达人]" 的字样  
 6.  打开微信开始使用
