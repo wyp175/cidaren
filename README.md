@@ -14,7 +14,7 @@
     或打开Fiddler -> 找到右侧的FiddlerScript标签 -> 全选覆盖
 
 #### 2.0 使用说明(更新时间: 2020-05-12)
-1.  下载2.0文件夹下的所有文件 或 蓝奏云盘<https://wdsjxz.lanzous.com/icjarng>下载压缩文件  
+1.  下载2.0文件夹下的所有文件 或 蓝奏云盘<https://wdsjxz.lanzous.com/icjbcih>下载压缩文件  
 2.  上述文件覆盖到 目录 %UserProfile%\Documents\Fiddler2\Scripts\ 下  
 3.  ***重要***打开Fiddler(这一步会报错变量不存在, 忽略即可)->Tools->Options->Scripting->References->填入 CDR.dll 文件的完整路径后保存 例如: "C:\Users\Administrator\Documents\Fiddler2\Scripts\CDR.dll"  
 4.  重启Fiddler 这时候应该会有一个自动更新弹窗 点击确定即可  
