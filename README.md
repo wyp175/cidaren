@@ -4,7 +4,7 @@
 同步gitee库 <https://gitee.com/wyp175/cidaren>  
 
 ***QQ群: 733477414***
-![QQ群号](http://p.ananas.chaoxing.com/star3/origin/07fec01c4e124b7985ca15cb6f25c5f0.png)  
+![QQ群号](https://p.ananas.chaoxing.com/star3/origin/07fec01c4e124b7985ca15cb6f25c5f0.png)  
 
 #### 使用说明
 
