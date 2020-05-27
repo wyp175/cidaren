@@ -4,7 +4,7 @@
 同步gitee库 <https://gitee.com/wyp175/cidaren>  
 
 ***QQ群: 733477414***
-![QQ群号](https://p.ananas.chaoxing.com/star3/origin/07fec01c4e124b7985ca15cb6f25c5f0.png)  
+![QQ群号](./QQ群.png)  
 
 #### 使用说明
 
@@ -28,6 +28,9 @@
 4.  有问题可以邮件到 eyes175##163.com (##换成@)
 
 #### 用爱发电
-![支付宝](https://p.ananas.chaoxing.com/star3/origin/235f9e38119853e51dcd34926401c0d5.png)
-![微信赞赏](http://p.ananas.chaoxing.com/star3/origin/79e8455a7c717cda5fb131be97234c9e.png)
+如果这个软件帮到你了，不妨请我喝瓶可乐：
+| 微信 | 支付宝 |
+| -----| ---- |
+| ![wexin](https://github.com/wyp175/McPan/blob/master/wxpay.png) | ![alipay](https://github.com/wyp175/McPan/blob/master/alipay.png) |
+
 
